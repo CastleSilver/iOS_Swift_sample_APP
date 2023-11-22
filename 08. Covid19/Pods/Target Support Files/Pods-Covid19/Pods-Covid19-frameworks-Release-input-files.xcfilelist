@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Covid19/Pods-Covid19-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/DGCharts/DGCharts.framework
